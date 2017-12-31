@@ -1,5 +1,6 @@
 # Singals Design Project
 Q1. Design a narrowband FIR filter using the interpolated finite impulse response (IFIR)technique. The filter should meet the following specifications:
+
 Passband edge: 3600 Hz
 Stopband edge: 3200 Hz
 Sampling frequency: 8000 Hz
