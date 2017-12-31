@@ -39,7 +39,7 @@ Design the filter according to the procedures given in Chapter 8.
 
 Part II Remove noises in ECG signal.  
 
-1. Brief Introduction of ECG Signal  
+1.Brief Introduction of ECG Signal  
 
 Electrocardiography (ECG) is a technique to capture the electrical activities of a heart against time. The heart is an organ that pumps blood throughout the body in a rhythmic fashion called a heartbeat. Electrical impulses captured in an ECG test provide rich information about the biological activities of the heart, which helps medical professionals to identify heart problems.  
 
